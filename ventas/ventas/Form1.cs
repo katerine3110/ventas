@@ -19,7 +19,7 @@ namespace ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mundo");
+            MessageBox.Show("Tener exito no es cuestion de suerte, es el resultado del esfuerzo mas arduo");
         }
     }
 }
